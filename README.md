@@ -1,5 +1,7 @@
 # Finance related Projects I've been working on
 
+> Currently working on DCF analysis
+
 My working Finance projects to showcase my skills and knowledge
 
 As the models are already created we just need to change "AAPL" with the ticker symbol of the required company
@@ -10,7 +12,7 @@ As the models are already created we just need to change "AAPL" with the ticker 
 The orange line shows the actual price and the orange one is the predicted price, 
 
 ![](img/pred_aaplc.png)
-######I learnt this method through youtube.
+###### I learnt this method through youtube.
 
 2. Financial Ratios Analysis. 
 

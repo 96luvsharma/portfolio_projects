@@ -21,7 +21,7 @@ Python makes it very easy to practically retrieve any financial ratio of any com
 I also use an api from https://site.financialmodelingprep.com/ which makes things even easier.
 
 Here are the Quick Ratio, ROE and Debt Ratio for AAPL for the past five years
-![](img/ratios_1.png)
+![](img/finratios_1.png)
 
 Another ratio analysis for AAPL.
-![](img/ratios_2.png)
+![](img/finratios_2.png)

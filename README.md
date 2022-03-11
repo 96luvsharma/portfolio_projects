@@ -10,7 +10,7 @@ As the models are already created we just need to change "AAPL" with the ticker 
 .
 
 The orange line shows the actual price and the yellow one is the predicted price, the blue line is the data used to train the model.
-
+The Root Mean Squared Error(RMSE) was = 1.6542070345445112 
 ![](img/pred_aaplc.png)
 ###### I learnt this method through youtube channel called [Computer Science](https://www.youtube.com/c/ComputerSciencecompsci112358)
 

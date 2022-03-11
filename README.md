@@ -18,7 +18,7 @@ The orange line shows the actual price and the yellow one is the predicted price
 
 Here are some examples of the Financial Ratios Analysis done in python, 
 Python makes it very easy to practically retrieve any financial ratio of any company within minutes for any company,
-I also use an api from https://site.financialmodelingprep.com/ which makes things even easier.
+I also use an api from **[Financial Modelling Prep](https://site.financialmodelingprep.com/developer/docs)** which makes things even easier.
 
 Here are the Quick Ratio, ROE and Debt Ratio for AAPL for the past five years
 ##### Where 0 is now and 4 is five years in the past.

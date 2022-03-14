@@ -7,7 +7,7 @@ The orange line shows the actual price and the yellow one is the predicted price
 
 The Root Mean Squared Error(RMSE) was = 1.6542070345445112 
 
-![](Stock Prediction/img/pred_aapl.png)
+![]('Stock Prediction'/img/pred_aapl.png)
 
 ###### I learnt this method through youtube channel called [Computer Science](https://www.youtube.com/c/ComputerSciencecompsci112358)
 

@@ -9,5 +9,5 @@ The Root Mean Squared Error(RMSE) was = 1.6542070345445112
 
 ![Graph](/Stock Prediction/img/pred_aapl.png)
 
-###### I learnt this method through youtube channel called ![Computer Science](https://www.youtube.com/c/ComputerSciencecompsci112358)
+###### I learnt this method through youtube channel called [Computer Science](https://www.youtube.com/c/ComputerSciencecompsci112358)
 

@@ -11,3 +11,7 @@ The Root Mean Squared Error(RMSE) was = 1.6542070345445112
 
 ###### I learnt this method through youtube channel called [Computer Science](https://www.youtube.com/c/ComputerSciencecompsci112358)
 
+# On 8th March, 2022:
+## The predicted price of the AAPL is = 160.47377
+## The actual price of the AAPL is = 157.440002
+

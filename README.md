@@ -4,10 +4,16 @@
 
 My working Finance projects to showcase my skills and knowledge
 
-https://github.com/96luvsharma/portfolio_projects/blob/1c0ef066edb88f417986ba9f7e8517127a626e3a/vid/Fscore.mp4
+# 1. Piotrosky's F-Score Calculation App.
+This Python code fetches the financial statements from Yahoo_Finance and interprets values like Gross Margin, Current Ratio, Operating Effeciency
+based on Piotrosky's F-score model, and then gives any company you select  a score out of 9.
+
+#### Here's a representation of how the model works, for detailed info you can see my Python code here in the repository.
+![](https://github.com/96luvsharma/portfolio_projects/blob/1c0ef066edb88f417986ba9f7e8517127a626e3a/vid/Fscore.mp4)
+
 As the models are already created we just need to change "AAPL" with the ticker symbol of the required company
 
-# 1. Apple Stock Price Prediction - It uses LSTM(Long Short Term Memory) model to predict the price of stock one day in advance.
+# 2. Apple Stock Price Prediction - It uses LSTM(Long Short Term Memory) model to predict the price of stock one day in advance.
 ![](vid/Piotroskiscore_app.webm)
 
 The orange line shows the actual price and the yellow one is the predicted price, the blue line is the data used to train the model.
@@ -21,7 +27,7 @@ The orange line shows the actual price and the yellow one is the predicted price
 ## The actual price of the AAPL is = 157.440002
 
 
-# 2. Financial Ratios Analysis. 
+# 3. Financial Ratios Analysis. 
 
 Here are some examples of the Financial Ratios Analysis done in python, 
 Python makes it very easy to practically retrieve any financial ratio of any company within minutes for any company,

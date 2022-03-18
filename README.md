@@ -9,7 +9,7 @@ This Python code fetches the financial statements from Yahoo_Finance and interpr
 based on Piotrosky's F-score model, and then gives any company you select  a score out of 9.
 
 #### Here's a representation of how the model works, for detailed info you can see my Python code here in the repository.
-![](https://github.com/96luvsharma/portfolio_projects/blob/1c0ef066edb88f417986ba9f7e8517127a626e3a/vid/Fscore.mp4)
+![](img/Fscore.gif)
 
 As the models are already created we just need to change "AAPL" with the ticker symbol of the required company
 

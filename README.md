@@ -3,6 +3,7 @@
 > Currently working on DCF analysis
 
 My working Finance projects to showcase my skills and knowledge
+![](vid/Piotroskiscore_app.webm)
 
 As the models are already created we just need to change "AAPL" with the ticker symbol of the required company
 
